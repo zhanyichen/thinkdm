@@ -1,0 +1,17 @@
+{
+    "name": "zhanyichen/thinkdm",
+    "description": "thinkdm",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "think\\db\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhanyichen",
+            "email": "38627724@qq.com"
+        }
+    ],
+    "require": {}
+}
